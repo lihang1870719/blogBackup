@@ -6,7 +6,7 @@
 title: Hexo
 subtitle:
 description:
-author: John Doe
+author: Scofield
 language:
 timezone:
 
@@ -71,3 +71,5 @@ deploy:
     type: git
     repository: https://github.com/lihang1870719/lihang1870719.github.io.git
     branch: master
+    name: lihang1870719
+    email: 1157995231@qq.com
